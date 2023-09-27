@@ -1,0 +1,5 @@
+1.Most of the students do not complete the course
+2.Group E has highest writing score greater than 70
+3.The coorelation is high
+4.The median reading score is greater for female students compare to male students.
+5.140 students has math score greater than 70
