@@ -1,0 +1,5 @@
+Population max is greater than sample max and also Population mean is slightly differ to sample mean.
+
+The BMI 98th percentage comparision Population 98th percentage is greater than sample 98th percentage.
+
+when comparing population mean and bootstrap mean,there is only slight change between Population mean and bootstrap mean.And for population standard deviation, there is only slight change between population standard deviation and bootstrap standard deviation.lastly, for percentile the population percentage and bootstrap percentage has slight change.
